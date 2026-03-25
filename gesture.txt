@@ -1,0 +1,19 @@
+hello= hello wave(done)
+
+yes=closed fist up down
+
+no=1 finger wave(done)
+
+water=2 finger tap tap(done)
+
+come= lateral half hand forward downward(done)
+
+sorry=closed fist diagonal(left top to bottom right)(done)
+
+please= open fist (small clockwise motion)(done)
+
+help= open fist(upward and downward)(done)
+
+stop= open fist(backward and forward)(done)
+
+thankyou =open fist sideways(open close open)(done)
